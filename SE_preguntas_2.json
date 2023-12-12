@@ -1,0 +1,259 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Tienes problemas al encender la computadora?",
+      "razones": {
+        "fuente_de_alimentacion": true,
+        "ram": true,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": false,
+        "rendimiento": false,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": true,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "Escuchas ruidos extra\u00F1os provenientes de la computadora?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": true,
+        "ventiladores_sistema_de_enfriamiento": true,
+        "sistema_operativo": false,
+        "rendimiento": false,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": true,
+        "limpieza_de_componentes": true,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "La computadora muestra alg\u00FAn mensaje de error durante el arranque?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": true,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": true,
+        "rendimiento": false,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": false,
+        "limpieza_de_componentes": false,
+        "investigar": true
+      }
+    },
+    {
+      "pregunta": "La computadora se ralentiza con frecuencia?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": true,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": false,
+        "rendimiento": true,
+        "malware_virus": true,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": false,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "Has notado problemas con la conexi\u00F3n a Internet?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": false,
+        "rendimiento": false,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": true,
+        "hardware_general": true,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "Hace mucho que no realizas un escaneo de virus recientemente?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": false,
+        "rendimiento": false,
+        "malware_virus": true,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": false,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "La computadora se apaga inesperadamente?",
+      "razones": {
+        "fuente_de_alimentacion": true,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": true,
+        "sistema_operativo": false,
+        "rendimiento": false,
+        "malware_virus": false,
+        "temperatura": true,
+        "controladores": false,
+        "hardware_general": false,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "Tienes tu espacio de almacenamiento casi lleno en tu disco duro o SSD?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": false,
+        "rendimiento": true,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": false,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "La computadora se sobrecalienta con frecuencia?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": true,
+        "sistema_operativo": false,
+        "rendimiento": true,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": false,
+        "limpieza_de_componentes": true,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "Hace mucho que no realizas actualizaciones del sistema operativo recientemente?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": true,
+        "rendimiento": true,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": false,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "Alguna vez has experimentado pantallas azules o errores graves del sistema?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": true,
+        "disco_duro": true,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": true,
+        "rendimiento": true,
+        "malware_virus": true,
+        "temperatura": true,
+        "controladores": true,
+        "hardware_general": false,
+        "limpieza_de_componentes": false,
+        "investigar": true
+      }
+    },
+    {
+      "pregunta": "Has conectado nuevos dispositivos recientemente?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": false,
+        "rendimiento": false,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": true,
+        "hardware_general": false,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "Has realizado mantenimiento f\u00EDsico a tu computadora?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": false,
+        "rendimiento": false,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": true,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "Has experimentado problemas con la reproducci\u00F3n de audio o video?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": false,
+        "rendimiento": false,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": true,
+        "hardware_general": true,
+        "limpieza_de_componentes": false,
+        "investigar": false
+      }
+    },
+    {
+      "pregunta": "Has recibido mensajes de error especificos?",
+      "razones": {
+        "fuente_de_alimentacion": false,
+        "ram": false,
+        "disco_duro": false,
+        "ventiladores_sistema_de_enfriamiento": false,
+        "sistema_operativo": false,
+        "rendimiento": false,
+        "malware_virus": false,
+        "temperatura": false,
+        "controladores": false,
+        "hardware_general": false,
+        "limpieza_de_componentes": false,
+        "investigar": true
+      }
+    }
+  ]
+}
