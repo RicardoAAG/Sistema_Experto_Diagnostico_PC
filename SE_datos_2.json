@@ -1,0 +1,20 @@
+{
+  "soluciones": [
+    {
+      "finales": {
+        "fuente_de_alimentacion": 0,
+        "ram": 0,
+        "disco_duro": 0,
+        "ventiladores_sistema_de_enfriamiento": 0,
+        "sistema_operativo": 0,
+        "rendimiento": 0,
+        "malware_virus": 0,
+        "temperatura": 0,
+        "controladores": 0,
+        "hardware_general": 0,
+        "limpieza_de_componentes": 0,
+        "investigar": 0
+      }
+    }
+  ]
+}
